@@ -1,0 +1,42 @@
+2022-06-30 15:36:04,229 This is my log with timestamp
+root INFO 2022-06-30 15:40:55,867 This is my log with timestamp
+root INFO 2022-06-30 15:46:24,613 This is my log with timestamp
+root INFO 2022-06-30 15:49:17,705 This is my log with timestamp
+root INFO 2022-06-30 15:49:17,705 The number entered by user is 3 and 8
+root INFO 2022-06-30 15:54:16,458 This is my log with timestamp
+root INFO 2022-06-30 15:54:16,458 The number entered by user is 3 and 8
+root INFO 2022-06-30 15:54:16,458 We have completed a division operation
+root INFO 2022-06-30 15:57:23,783 This is my log with timestamp
+root INFO 2022-06-30 15:57:23,783 The number entered by user is 3 and 8
+root INFO 2022-06-30 15:57:23,783 We have completed a division operation
+root INFO 2022-06-30 15:57:39,910 This is my log with timestamp
+root INFO 2022-06-30 15:57:39,911 The number entered by user is 3 and 8
+root ERROR 2022-06-30 15:57:39,911 division by zero
+Traceback (most recent call last):
+  File "d:\Python Programs\INeuron\Live FSDS\Live 29May1.py", line 7, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+root INFO 2022-06-30 16:02:25,580 This is my log with timestamp
+root INFO 2022-06-30 16:02:25,581 The number entered by user is 3 and 8
+root ERROR 2022-06-30 16:02:25,581 division by zero
+Traceback (most recent call last):
+  File "d:\Python Programs\INeuron\Live FSDS\Live 29May1.py", line 7, in divide
+    div = a/b
+ZeroDivisionError: division by zero
+root INFO 2022-06-30 16:02:44,096 This is my log with timestamp
+root INFO 2022-06-30 16:02:44,096 The number entered by user is 3 and 8
+root INFO 2022-06-30 16:02:44,096 We have completed a division operation
+root INFO 2022-06-30 16:04:40,384 This is my log with timestamp
+root INFO 2022-06-30 16:04:40,385 The number entered by user is 3 and 8
+root INFO 2022-06-30 16:04:40,385 We have completed a division operation
+root INFO 2022-06-30 16:04:44,856 This is my log with timestamp
+root INFO 2022-06-30 16:04:44,856 The number entered by user is 3 and 8
+root INFO 2022-06-30 16:04:44,857 We have completed a division operation
+root INFO 2022-06-30 16:05:49,671 This is my log with timestamp
+root INFO 2022-06-30 16:05:49,671 The number entered by user is 3 and 8
+root INFO 2022-06-30 16:05:49,671 We have completed a division operation
+root INFO 2022-06-30 16:05:49,671 Result of code is 0.375
+root INFO 2022-06-30 16:12:45,323 This is my log with timestamp
+root INFO 2022-06-30 16:12:45,323 The number entered by user is 3 and 8
+root INFO 2022-06-30 16:12:45,323 We have completed a division operation
+root INFO 2022-06-30 16:12:45,324 Result of code is 0.375
