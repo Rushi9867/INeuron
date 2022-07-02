@@ -1,0 +1,10 @@
+def askint1():
+    while True:
+        try:
+            val = int(input("Please try to input an integer"))
+            break
+        except:
+            print("Looks like you have not entered in integer")
+            continue
+
+askint1()
